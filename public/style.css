@@ -1,0 +1,24 @@
+#applyButton{
+    width: 100px;
+}
+#clearButton{
+    width: 100px;
+}
+#saveSearchButton{
+    margin-top: 10px;
+    width: 200px;
+}
+input{
+    width: 200px;
+}
+#endDate{
+    margin-left: 35px;
+}
+
+.a{
+border-radius: 5px;
+}
+.a:hover{
+
+background-color:rgb(19, 206, 41);
+}
